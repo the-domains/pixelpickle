@@ -1,24 +1,24 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T23:03:10.069Z'
-dateModified: '2016-01-06T23:02:51.717Z'
+datePublished: '2016-01-06T23:34:53.693Z'
+dateModified: '2016-01-06T23:34:50.170Z'
 title: Pixelpickle Games
 author: []
+sourcePath: _posts/2016-01-06-pixelpickle-games.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-pixelpickle-games.md
-published: true
-url: pixelpickle-games/index.html
 _type: Blurb
 
 ---
