@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-07T06:18:42.103Z'
-dateModified: '2016-01-07T06:17:45.106Z'
+datePublished: '2016-01-07T22:56:24.066Z'
+dateModified: '2016-01-07T22:55:36.118Z'
 title: 'Lylian: Paranoid Friendship'
 author: []
 sourcePath: _posts/2016-01-07-lylian-paranoid-friendship.md
