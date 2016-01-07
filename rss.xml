@@ -4,7 +4,7 @@
         <description><![CDATA[Pixelpickle Games]]></description>
         <link>https://thegrid.ai/pixelpickle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 03:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 05:15:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pixelpickle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Company Colossal comes this way]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/pixelpickle/company-colossal-comes-this-way/index.html</link>
             <guid isPermaLink="false">347dde52-f412-44d2-b589-03cae3b8ec9e</guid>
             <pubDate>Thu, 07 Jan 2016 03:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Who is this, Pixelpickle Games?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d555ebca8f6d36e59fab0b53c3464c198a2b9d95.png"></article>]]></description>
-            <link>https://thegrid.ai/pixelpickle/about/index.html</link>
-            <guid isPermaLink="false">bac9ad3f-a8d5-4e7b-816f-f409a61da8c3</guid>
-            <pubDate>Thu, 07 Jan 2016 01:44:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
