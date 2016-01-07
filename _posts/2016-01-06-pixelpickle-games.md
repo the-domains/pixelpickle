@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-06T23:34:53.693Z'
-dateModified: '2016-01-06T23:34:50.170Z'
+datePublished: '2016-01-07T00:35:58.078Z'
+dateModified: '2016-01-07T00:35:53.943Z'
 title: Pixelpickle Games
 author: []
 sourcePath: _posts/2016-01-06-pixelpickle-games.md
