@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Where little colossi get born.
-datePublished: '2016-01-07T22:52:57.187Z'
-dateModified: '2016-01-07T22:52:52.884Z'
+datePublished: '2016-01-07T22:58:03.526Z'
+dateModified: '2016-01-07T22:57:57.747Z'
 title: Company Colossal
 author: []
 sourcePath: _posts/2016-01-07-company-colossal.md
