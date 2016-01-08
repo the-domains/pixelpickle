@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T01:41:23.389Z'
-dateModified: '2016-01-08T01:41:17.462Z'
+datePublished: '2016-01-08T02:14:32.033Z'
+dateModified: '2016-01-08T02:14:28.612Z'
 title: Company Colossal comes this way
 author: []
+sourcePath: _posts/2016-01-07-company-colossal-comes-this-way.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-07-company-colossal-comes-this-way.md
-published: true
 url: company-colossal-comes-this-way/index.html
 _type: Article
 
 ---
 Something massive comes this way...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2339a49f-a851-4f46-a8c3-2c4eb73ca40c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2c32a318b4e655d79d2c7282c074d830f64e8e0.jpg)
 
 ...seriously, I'm being really serious.
 
