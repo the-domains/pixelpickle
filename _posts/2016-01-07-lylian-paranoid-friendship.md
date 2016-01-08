@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A sidescrolling adventure
-datePublished: '2016-01-08T01:41:32.989Z'
-dateModified: '2016-01-08T01:41:29.753Z'
+datePublished: '2016-01-08T01:55:31.369Z'
+dateModified: '2016-01-08T01:54:58.827Z'
 title: 'Lylian: Paranoid Friendship'
 author: []
 sourcePath: _posts/2016-01-07-lylian-paranoid-friendship.md
@@ -22,6 +22,8 @@ url: lylian-paranoid-friendship/index.html
 _type: Article
 
 ---
+# Lylian: Paranoid Friendship
+
 A few years back (2010) Lylian: Paranoid friendship was released. A young, misunderstood girl with an ability to spew forth her imagination into the real world, causing chaos in the minds of others.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f526fcdf-71bf-4ed7-b5b7-7af09b7b6ef6.png)
 
