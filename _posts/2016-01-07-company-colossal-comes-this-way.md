@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T10:31:09.226Z'
-dateModified: '2016-01-08T10:31:05.389Z'
+datePublished: '2016-01-08T11:03:54.361Z'
+dateModified: '2016-01-08T11:03:48.525Z'
 title: Company Colossal comes this way
 author: []
 sourcePath: _posts/2016-01-07-company-colossal-comes-this-way.md
@@ -27,7 +27,7 @@ Something massive comes this way...
 
 ...seriously, I'm being really serious.
 
-Company Colossal is a Tower Defense Shoot'em'up hybrid, with a story element just as important as the game play.
+Company Colossal is a Tower Defense Shoot'em'up hybrid, with a story element just as important as the game play. OK, the gameplay is more important, but the story is really good!
 
 For more information and continued updates visit the [CC page][0].
 
