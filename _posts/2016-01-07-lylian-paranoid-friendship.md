@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-07T22:56:24.066Z'
-dateModified: '2016-01-07T22:55:36.118Z'
+datePublished: '2016-01-08T00:40:35.855Z'
+dateModified: '2016-01-08T00:40:31.478Z'
 title: 'Lylian: Paranoid Friendship'
 author: []
 sourcePath: _posts/2016-01-07-lylian-paranoid-friendship.md
@@ -31,5 +31,8 @@ You can still buy Lylian: Paranoid Friendship from these lovely portals -
 
 [Desura.com][1]
 
+Also, check out the [comic][2]!
+
 [0]: http://www.gamersgate.com/DD-LYLIANE1/lylian-episode-one-paranoid-friendship
 [1]: http://www.desura.com/games/lylian-paranoid-friendship
+[2]: http://pixelpickle.com/lylian-comic/
