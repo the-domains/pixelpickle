@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Where little colossi get born.
-datePublished: '2016-01-07T22:58:03.526Z'
-dateModified: '2016-01-07T22:57:57.747Z'
+datePublished: '2016-01-08T00:45:17.624Z'
+dateModified: '2016-01-08T00:45:12.701Z'
 title: Company Colossal
 author: []
 sourcePath: _posts/2016-01-07-company-colossal.md
@@ -22,6 +22,8 @@ url: company-colossal/index.html
 _type: Article
 
 ---
+# Company Colossal
+
 Company Colossal is many things. It's epic! It's funny! It's a hybrid tower defense shoot'em'up! it's not finished.
 
 But when it is finished, oh my, I have such sights to show you.
