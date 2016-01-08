@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-07T03:51:41.470Z'
-dateModified: '2016-01-07T03:51:27.317Z'
+datePublished: '2016-01-08T01:39:11.098Z'
+dateModified: '2016-01-08T01:39:07.680Z'
 title: Company Colossal comes this way
 author: []
 authors: []
