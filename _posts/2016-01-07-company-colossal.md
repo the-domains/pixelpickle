@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Where little colossi get born.
-datePublished: '2016-01-08T01:44:20.870Z'
-dateModified: '2016-01-08T01:44:16.140Z'
+datePublished: '2016-01-08T10:57:30.173Z'
+dateModified: '2016-01-08T10:57:25.043Z'
 title: Company Colossal
 author: []
 sourcePath: _posts/2016-01-07-company-colossal.md
@@ -30,6 +30,12 @@ But when it is finished, oh my, I have such sights to show you.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a362738-6764-408c-81b4-2e13a6c5907b.jpg)
 
 With Character designs created by the talented [Aaron Alexovich][0] who has worked on things like Invader Zim and Serenity Rose. And the voice over talent, [G.K Bowes][1] - Marvel vs Capcom, Minecraft Story Mode - an award for best characters is sure to come, surely.
+
+In preparation for imminent war against the Good siblings' militia, a small band of reckless heroes must escort colossal machines to orchestrate the ultimate retaliation. In doing so, they have a lot of fun, get into a lot of trouble, and save worlds.
+
+The "good guys" - ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a2195d0-65d2-4efb-bf7e-f4cb2e3310c7.png)
+
+Currently at 30 levels varying between tower defense and shoot'em'up, there's even a couple of other genres in there, because... storyline!
 
 Keep your eyes peeled and comfortably lubricated for news to be popping up soon-ish.
 
