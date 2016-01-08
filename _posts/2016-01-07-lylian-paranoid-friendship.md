@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A sidescrolling adventure
-datePublished: '2016-01-08T01:09:38.522Z'
-dateModified: '2016-01-08T01:09:27.346Z'
+datePublished: '2016-01-08T01:38:58.249Z'
+dateModified: '2016-01-08T01:38:54.106Z'
 title: 'Lylian: Paranoid Friendship'
 author: []
 sourcePath: _posts/2016-01-07-lylian-paranoid-friendship.md
