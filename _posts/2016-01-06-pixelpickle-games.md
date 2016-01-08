@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-08T04:26:00.439Z'
-dateModified: '2016-01-08T04:25:56.631Z'
+datePublished: '2016-01-08T10:18:28.172Z'
+dateModified: '2016-01-08T10:18:24.656Z'
 title: Pixelpickle Games
 author: []
 sourcePath: _posts/2016-01-06-pixelpickle-games.md
@@ -22,6 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1cd1f07-3eb8-4b8d-8c81-2d9fcc72c2dc.png)
-
 GAMES | ANIMATION | INTERACTIVE
