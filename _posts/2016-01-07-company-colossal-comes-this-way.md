@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T11:03:54.361Z'
-dateModified: '2016-01-08T11:03:48.525Z'
+datePublished: '2016-01-09T00:21:29.459Z'
+dateModified: '2016-01-09T00:21:24.802Z'
 title: Company Colossal comes this way
 author: []
 sourcePath: _posts/2016-01-07-company-colossal-comes-this-way.md
@@ -22,6 +22,8 @@ url: company-colossal-comes-this-way/index.html
 _type: Article
 
 ---
+## Company Colossal comes this way
+
 Something massive comes this way...
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2c32a318b4e655d79d2c7282c074d830f64e8e0.jpg)
 
