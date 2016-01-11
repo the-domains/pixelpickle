@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A sidescrolling adventure
-datePublished: '2016-01-08T01:55:31.369Z'
-dateModified: '2016-01-08T01:54:58.827Z'
+datePublished: '2016-01-11T01:12:49.890Z'
+dateModified: '2016-01-11T01:12:45.992Z'
 title: 'Lylian: Paranoid Friendship'
 author: []
 sourcePath: _posts/2016-01-07-lylian-paranoid-friendship.md
@@ -37,4 +37,4 @@ Also, check out the [comic][2]!
 
 [0]: http://www.gamersgate.com/DD-LYLIANE1/lylian-episode-one-paranoid-friendship
 [1]: http://www.desura.com/games/lylian-paranoid-friendship
-[2]: http://pixelpickle.com/lylian-comic/
+[2]: http://www.pixelpickle.com/lylian-comic/
