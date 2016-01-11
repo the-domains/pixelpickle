@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T00:22:56.153Z'
-dateModified: '2016-01-09T00:22:51.376Z'
+datePublished: '2016-01-11T01:11:37.634Z'
+dateModified: '2016-01-11T01:11:34.379Z'
 title: Company Colossal comes this way
 author: []
 sourcePath: _posts/2016-01-07-company-colossal-comes-this-way.md
@@ -33,4 +33,4 @@ Company Colossal is a Tower Defense Shoot'em'up hybrid, with a story element jus
 
 For more information and continued updates visit the [CC page][0].
 
-[0]: http://pixelpickle.com/company-colossal/
+[0]: http://www.pixelpickle.com/company-colossal/
