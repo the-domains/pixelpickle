@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Where little colossi get born.
-datePublished: '2016-01-13T22:26:55.631Z'
-dateModified: '2016-01-13T22:26:51.642Z'
+datePublished: '2016-01-13T22:51:25.362Z'
+dateModified: '2016-01-13T22:51:22.043Z'
 title: Company Colossal
 author: []
 sourcePath: _posts/2016-01-07-company-colossal.md
@@ -33,7 +33,7 @@ With Character designs created by the talented [Aaron Alexovich][0] who has work
 
 In preparation for imminent war against the Good siblings' militia, a small band of reckless heroes must escort colossal machines to orchestrate the ultimate retaliation. In doing so, they have a lot of fun, get into a lot of trouble, and save worlds.
 
-The "good guys" - ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a8efc8f6a63b8287823b1e866d510f0424f707a.png)
+The "good guys" - ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f41cb07039aafc7e8ea6b48f855b17c4c921c2d9.png)
 
 Currently at 30 levels varying between tower defense and shoot'em'up, there's even a couple of other genres in there, because... storyline!
 
