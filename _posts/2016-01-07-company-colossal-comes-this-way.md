@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T05:28:41.618Z'
-dateModified: '2016-01-15T05:28:22.351Z'
+datePublished: '2016-01-15T05:28:41.872Z'
+dateModified: '2016-01-15T05:28:41.618Z'
 title: Company Colossal comes this way
 author: []
 sourcePath: _posts/2016-01-07-company-colossal-comes-this-way.md
