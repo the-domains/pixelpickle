@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A sidescrolling adventure
-datePublished: '2016-01-11T01:12:49.890Z'
-dateModified: '2016-01-11T01:12:45.992Z'
+datePublished: '2016-01-29T04:57:52.050Z'
+dateModified: '2016-01-28T23:34:22.943Z'
 title: 'Lylian: Paranoid Friendship'
 author: []
 sourcePath: _posts/2016-01-07-lylian-paranoid-friendship.md
@@ -27,14 +27,11 @@ _type: Article
 A few years back (2010) Lylian: Paranoid friendship was released. A young, misunderstood girl with an ability to spew forth her imagination into the real world, causing chaos in the minds of others.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f526fcdf-71bf-4ed7-b5b7-7af09b7b6ef6.png)
 
-You can still buy Lylian: Paranoid Friendship from these lovely portals - 
+You can still buy Lylian: Paranoid Friendship from GamersGate - 
 
 [Gamersgate.com][0]
 
-[Desura.com][1]
-
-Also, check out the [comic][2]!
+Also, check out the [comic][1]!
 
 [0]: http://www.gamersgate.com/DD-LYLIANE1/lylian-episode-one-paranoid-friendship
-[1]: http://www.desura.com/games/lylian-paranoid-friendship
-[2]: http://www.pixelpickle.com/lylian-comic/
+[1]: http://www.pixelpickle.com/lylian-comic/
