@@ -1,6 +1,6 @@
 name: Pixelpickle
 favicon: null
-layout_spectrum: 0.85003
+layout_spectrum: 0.68988
 typography_spectrum: 0.14795
 title: Pixelpickle Games
 cta:
@@ -23,7 +23,7 @@ color:
     - '#a8a8a8'
     - '#474746'
   brandStrength: 0
-  lightness: 0.125
+  lightness: 0.3125
   saturation: 0.5
   rhythmicContrast: 0.8580766876693815
 purpose: []
