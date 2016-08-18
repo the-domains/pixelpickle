@@ -1,24 +1,20 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-starred: true
-keywords: []
-description: ''
-datePublished: '2016-01-13T22:25:02.330Z'
-dateModified: '2016-01-13T22:24:58.439Z'
-title: Pixelpickle Games
-author: []
+datePublished: '2016-08-18T23:47:28.793Z'
 sourcePath: _posts/2016-01-06-pixelpickle-games.md
-published: true
+inFeed: true
+isBasedOnUrl: null
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: false
+keywords: []
+author: []
+dateModified: '2016-08-18T23:47:28.058Z'
+title: ''
+publisher: {}
+description: GAMES | ANIMATION | INTERACTIVE
+inLanguage: null
+inNav: false
+via: {}
+starred: true
 _type: Blurb
 
 ---
