@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T00:14:28.778Z'
+datePublished: '2016-08-19T00:25:31.826Z'
 sourcePath: _posts/2016-01-07-company-colossal.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T00:14:28.146Z'
+dateModified: '2016-08-19T00:25:31.100Z'
 title: Company Colossal
 publisher: {}
 description: >-
@@ -35,6 +35,7 @@ Keep your eyes peeled and comfortably lubricated for news to be popping up soon-
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2cb182a2b0727a20e61c3f9c80d0e3cdfacc2a4.png)
 
 Currently at 30 levels varying between tower defense and shoot'em'up, there's even a couple of other genres in there, because... storyline!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/468b1be7-4840-4059-bd33-03788d127ee4.jpg)
 
 [0]: http://www.heartshapedskull.com/
 [1]: http://www.gkbowes.com/
