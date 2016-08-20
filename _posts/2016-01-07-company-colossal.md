@@ -1,20 +1,24 @@
 ---
-datePublished: '2016-08-19T00:25:31.826Z'
-sourcePath: _posts/2016-01-07-company-colossal.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-author: []
-via: {}
-dateModified: '2016-08-19T00:25:31.100Z'
-title: Company Colossal
-publisher: {}
 description: >-
   Company Colossal is many things. It's epic! It's funny! It's a hybrid tower
   defense shoot'em'up! it's not finished.
-inLanguage: null
-inNav: true
+datePublished: '2016-08-20T08:01:04.507Z'
+dateModified: '2016-08-20T08:00:55.746Z'
+sourcePath: _posts/2016-01-07-company-colossal.md
+author: []
+via: {}
+title: Company Colossal
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: company-colossal/index.html
 _type: Article
@@ -31,8 +35,7 @@ In preparation for imminent war against the Good siblings' militia, a small band
 Keep your eyes peeled and comfortably lubricated for news to be popping up soon-ish.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d87346172fde2c81398b6911f2cb6027de3e39d2.jpg)
 
-<a href="http://www.indiedb.com/games/company-colossal" title="Company Colossal Windows game" target="\_blank"\><img src="http://media.indiedb.com/images/global/indiedb\_125x125.png" alt="Company Colossal Windows game" width="125" border="0" height="125"\></a\>
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2cb182a2b0727a20e61c3f9c80d0e3cdfacc2a4.png)
+* ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2cb182a2b0727a20e61c3f9c80d0e3cdfacc2a4.png)
 
 Currently at 30 levels varying between tower defense and shoot'em'up, there's even a couple of other genres in there, because... storyline!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/468b1be7-4840-4059-bd33-03788d127ee4.jpg)
