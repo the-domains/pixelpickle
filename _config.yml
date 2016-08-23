@@ -1,7 +1,18 @@
+layout_spectrum: 0.7058641833718866
+typography_spectrum: 0.7050141370855272
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#b6d437'
+    - '#a8a8a8'
+    - '#474746'
+  brandStrength: 0
+  lightness: 0.3125
+  saturation: 0.5
+  rhythmicContrast: 0.25
 name: Pixelpickle
 favicon: null
-layout_spectrum: 0.31969
-typography_spectrum: 0.5920484075322747
 title: Pixelpickle Games
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#b6d437'
-    - '#a8a8a8'
-    - '#474746'
-  brandStrength: 0
-  lightness: 0.3125
-  saturation: 0.5
-  rhythmicContrast: 0.25
 purpose: []
