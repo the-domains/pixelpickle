@@ -1,22 +1,26 @@
 ---
-datePublished: '2016-08-23T02:00:48.390Z'
-sourcePath: _posts/2016-01-07-company-colossal.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: >-
+  Company Colossal is many things. It's epic! It's funny! It's a hybrid tower
+  defense shoot'em'up! it's not finished.
+datePublished: '2016-08-23T02:15:12.141Z'
+dateModified: '2016-08-23T02:12:56.805Z'
+sourcePath: _posts/2016-01-07-company-colossal.md
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T02:00:47.443Z'
 title: Company Colossal
-publisher: {}
-description: >-
-  Company Colossal is many things. It's epic! It's funny! It's a hybrid tower
-  defense shoot'em'up! it's not finished.
-inLanguage: null
-inNav: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: company-colossal/index.html
 _type: Article
@@ -32,10 +36,10 @@ In preparation for imminent war against the Good siblings' militia, a small band
 
 Keep your eyes peeled and comfortably lubricated for news to be popping up soon-ish.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2cb182a2b0727a20e61c3f9c80d0e3cdfacc2a4.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01d547bc-dd7a-45e5-8f15-486951af3294.jpg)
 
 Currently at 30 levels varying between tower defense and shoot'em'up, there's even a couple of other genres in there, because... storyline!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/468b1be7-4840-4059-bd33-03788d127ee4.jpg)
-![Company Colossal Windows game](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4939ecf7b92d603f023ba93e18014f1389ccdb5d.png)
+
 
 [0]: http://www.heartshapedskull.com/
 [1]: http://www.gkbowes.com/
