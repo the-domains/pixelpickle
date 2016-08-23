@@ -20,9 +20,11 @@ analytics:
   facebook: null
   twitter: null
 author:
-  name: Robert Dowling
-  email: pixelpickle@gmail.com
-  url: pixelpickle.com
+  name: ''
+  email: ''
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfe4ef05-0168-4722-9cc8-ea9a1945a6cf.png
 name: Pixelpickle
 cta:
   domain: null
