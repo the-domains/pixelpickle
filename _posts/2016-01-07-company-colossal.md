@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Company Colossal is many things. It's epic! It's funny! It's a hybrid tower
   defense shoot'em'up! it's not finished.
-datePublished: '2016-08-23T02:15:12.141Z'
-dateModified: '2016-08-23T02:12:56.805Z'
+datePublished: '2016-08-23T02:18:05.909Z'
+dateModified: '2016-08-23T02:18:03.769Z'
 sourcePath: _posts/2016-01-07-company-colossal.md
 author:
   - name: ''
