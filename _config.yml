@@ -1,4 +1,3 @@
-layout_spectrum: 0.7058641833718866
 typography_spectrum: 0.7050141370855272
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.3125
   saturation: 0.5
   rhythmicContrast: 0.25
-name: Pixelpickle
-favicon: null
-title: Pixelpickle Games
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-4692760-1
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7058641833718866
+analytics:
+  google: UA-4692760-1
+  facebook: null
+  twitter: null
+author:
+  name: Robert Dowling
+  email: pixelpickle@gmail.com
+  url: pixelpickle.com
+name: Pixelpickle
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Pixelpickle Games
 purpose: []
