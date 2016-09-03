@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T00:29:02.293Z'
+datePublished: '2016-09-01T00:29:41.905Z'
 sourcePath: _posts/2016-01-07-company-colossal.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-01T00:29:01.463Z'
+dateModified: '2016-09-01T00:29:41.037Z'
 title: Company Colossal
 publisher: {}
 description: >-
