@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T00:34:22.699Z'
+datePublished: '2016-09-01T00:44:08.325Z'
 sourcePath: _posts/2016-01-07-company-colossal.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-01T00:34:21.841Z'
+dateModified: '2016-09-01T00:44:07.440Z'
 title: Company Colossal
 publisher: {}
 description: >-
@@ -27,17 +27,17 @@ _type: Article
 Company Colossal is many things. It's epic! It's funny! It's a hybrid tower defense shoot'em'up! it's not finished.
 
 With Character designs created by the talented [Aaron Alexovich][0] who has worked on things like Invader Zim and Serenity Rose. And the voice over talent, [G.K Bowes][1] - Marvel vs Capcom, Minecraft Story Mode - an award for best characters is sure to come, surely.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe395a07-8b57-4358-9373-245900e3c136.jpg)
 
 In preparation for imminent war against the Good siblings' militia, a small band of reckless heroes must escort colossal machines to orchestrate the ultimate retaliation. In doing so, they have a lot of fun, get into a lot of trouble, and save worlds.
 
 Keep your eyes peeled and comfortably lubricated for news to be popping up soon-ish.
 
 Currently at 30 levels varying between tower defense and shoot'em'up, there's even a couple of other genres in there, because... story-line!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01d547bc-dd7a-45e5-8f15-486951af3294.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0138ff6-17ac-404a-9606-e730944e4c7f.png)
 ![The Company Colossal Crew](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a077b172-9667-4311-b865-0bf72107e439.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1js1OwzAQhF9l5bNTt1IBgRJfKm78SQjBdWM78UqOXXndGt4el_TKbXZW38z0NGVcHFSyxQ_idrsV4B3Nvgxifzk4m0H4Uo4PStVaNxQtOTtuTFoUFyzEhQyrNUadiamouUlWN7vd3b2yqcaQ0HJ3JusSd7Tg7LjD3LjgWMAfOaZsXR5Ea8QQUp1OIbDJzkXdX8N1P2ZQukfw2U3_jlrLmzpi_OlMCokZg9CH1YHD1YHPRqXKEp7RSHiiePqW8PX68ijh7X0v258-4JLWK9S_59lmuA" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNjsEKwjAQRH9l2buNSE_S9CCC-BWyadZkMUlLutLfNx4qXuYwb5iZgSBWflqMqsvZmG3bOile2LtumjOCiia2eP96cKPMK1xJydHKDVINrBYfLlF54ThIDrDW6VeX2Qv9FxrJFHg1Ic2OktnJUgICJd2HrhcEN1fP1eIRYROv0WJ_QogsIbZc3yP4duSwSDmUualFrW9uJwyNHwvgSBE" style=""></iframe>
 
 
 
