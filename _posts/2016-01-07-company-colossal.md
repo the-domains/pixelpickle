@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T00:45:14.503Z'
+datePublished: '2016-09-01T01:45:25.138Z'
 sourcePath: _posts/2016-01-07-company-colossal.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-01T00:45:13.668Z'
+dateModified: '2016-09-01T01:45:24.353Z'
 title: Company Colossal
 publisher: {}
 description: >-
@@ -37,7 +37,7 @@ Currently at 30 levels varying between tower defense and shoot'em'up, there's ev
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0138ff6-17ac-404a-9606-e730944e4c7f.png)
 ![The Company Colossal Crew](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a077b172-9667-4311-b865-0bf72107e439.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNjsEKwjAQRH9l2buNSE_S9CCC-BWyadZkMUlLutLfNx4qXuYwb5iZgSBWflqMqsvZmG3bOile2LtumjOCiia2eP96cKPMK1xJydHKDVINrBYfLlF54ThIDrDW6VeX2Qv9FxrJFHg1Ic2OktnJUgICJd2HrhcEN1fP1eIRYROv0WJ_QogsIbZc3yP4duSwSDmUualFrW9uJwyNHwvgSBE" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyljstqQjEURX_lcMapkXJHxTgRZ31BEZ2Vc2_S5NA8Lkkk-vdGqoWOO9uw2Iu1InDZfCl0tc5PUrbWFhw1Gz0uphSkpWCK7GumeH6Ykk-lkEeoXL1RuPkBsLkB2PdzakXAC00CnjkeTwIOb69bAe8fg-icd3CVdgVla6rCz9FT_Mb1ioOFkqfflmA0058aDmR7jvVpJC_vZI4WgXz9X05jXZ3C4RFhTFmbrHCJ4Axb183D0AMlrS-VT2XW" style=""></iframe>
 
 
 
