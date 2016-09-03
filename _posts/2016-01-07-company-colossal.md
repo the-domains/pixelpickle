@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T23:52:12.500Z'
+datePublished: '2016-09-01T00:29:02.293Z'
 sourcePath: _posts/2016-01-07-company-colossal.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T23:52:11.737Z'
+dateModified: '2016-09-01T00:29:01.463Z'
 title: Company Colossal
 publisher: {}
 description: >-
@@ -36,6 +36,10 @@ Currently at 30 levels varying between tower defense and shoot'em'up, there's ev
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01d547bc-dd7a-45e5-8f15-486951af3294.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0138ff6-17ac-404a-9606-e730944e4c7f.png)
 ![The Company Colossal Crew](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a077b172-9667-4311-b865-0bf72107e439.png)
+
+    <a href="http://www.indiedb.com/games/company-colossal" title="Company Colossal Windows, Mac, Linux, XONE, PS4, WiiU game" target="_blank"><img src="http://media.indiedb.com/images/global/indiedb.png" alt="Company Colossal Windows, Mac, Linux, XONE, PS4, WiiU game" width="42" border="0" height="44"></a>
+
+
 
 [0]: http://www.heartshapedskull.com/
 [1]: http://www.gkbowes.com/
